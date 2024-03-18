@@ -5,6 +5,8 @@ It is a full stack website with features as add to cart, proceed for checkout an
 
 UI - https://www.figma.com/file/o6jzDpTyCHC6WNxuPK8cma/Via-monte?type=design&node-id=0-1&mode=design
 
+Next.js- Next.js is a React framework for building full-stack web applications. 
+
 #Back-end Node.js - JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 Express.js - Minimal and flexible Node.js web application framework. 
